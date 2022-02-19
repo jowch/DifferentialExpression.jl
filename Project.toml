@@ -1,0 +1,4 @@
+name = "DifferentialExpression"
+uuid = "1966d178-97f2-4e0e-9acc-e8b5e6a8bba7"
+authors = ["Jonathan Chen <jwhc@ucla.edu>"]
+version = "0.1.0"
